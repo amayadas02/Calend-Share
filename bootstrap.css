@@ -5279,7 +5279,7 @@ textarea.form-control-lg {
   }
 }
 .list-group-flush {
-  border-radius: 0;
+  border-radius: 1;
 }
 .list-group-flush > .list-group-item {
   border-width: 0 0 var(--bs-list-group-border-width);
