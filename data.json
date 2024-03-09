@@ -1,0 +1,46 @@
+{
+    "themes": [
+      {
+        "imageName": "sunset.jpg",
+        "cardText": "Sunset"
+      },
+      {
+        "imageName": "campfire.jpg",
+        "cardText": "Campfire"
+      },
+      {
+        "imageName": "royal.jpg",
+        "cardText": "Luxury"
+      },
+      {
+        "imageName": "spring.jpg",
+        "cardText": "Spring"
+      },
+      {
+        "imageName": "bubblegum.jpg",
+        "cardText": "Bubblegum"
+      },
+      {
+        "imageName": "seafoam.jpg",
+        "cardText": "Seafoam"
+      }
+    ],
+    "stickerPacks": [
+      {
+        "imageName": "Balloons.png",
+        "cardText": "The Basic collection has plenty of everyday event stickers. <br>This is a work in progress!"
+      },
+      {
+        "imageName": "appts.png",
+        "cardText": "The Appointment Pack contains gothic themed stickers for all of the necessary appointments in your life"
+      },
+      {
+        "imageName": "Snowman.png",
+        "cardText": "This is a work in progress!"
+      },
+      {
+        "imageName": "SpringPack.png",
+        "cardText": "The spring collection has many colorful nature inspired stickers to brighten your day!"
+      }
+    ]
+  }
