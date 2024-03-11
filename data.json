@@ -27,18 +27,22 @@
     ],
     "stickerPacks": [
       {
+        "title":"EveryDay Pack",
         "imageName": "Balloons.png",
         "cardText": "The Basic collection has plenty of everyday event stickers. <br>This is a work in progress!"
       },
       {
+        "title":"Appointment Pack",
         "imageName": "appts.png",
         "cardText": "The Appointment Pack contains gothic themed stickers for all of the necessary appointments in your life"
       },
       {
+        "title":"Holiday Pack",
         "imageName": "Snowman.png",
         "cardText": "This is a work in progress!"
       },
       {
+        "title":"Spring Pack",
         "imageName": "SpringPack.png",
         "cardText": "The spring collection has many colorful nature inspired stickers to brighten your day!"
       }
